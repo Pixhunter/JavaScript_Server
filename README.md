@@ -21,8 +21,8 @@ This is the server that main function is to interpretate & run simple JavaScript
              continue
              break 
 
-<br>  U don't need the ; but program skip it :)
-<br>=================================================</pre>
+  U don't need the ; but program skip it :)
+=================================================</pre>
 
 Here are all the server files with the javascript interpreter:
 (interpreter capabilities are given by srun.sh during compilation and they are in the js.cpp header and also some lines upper :D)
