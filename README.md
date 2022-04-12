@@ -5,24 +5,24 @@ This is the server that main function is to interpretate & run simple JavaScript
 
 
 
-==================================================
+<br>==================================================
 <br>  WHAT's my JavaScript interpretator cans???
 <br>
 <br>  TYPES: Integer, Float, String, Boolean
-  ALSO:  Arrays
-  OPERATIONS: + - * /
-  LOGIC OPERATIONS: == != === !==  
-                     >  <  >=  <= 
-  OPERATIONS WITH STRING: + / * 
-  COMMENTS: // /*...*/
-  KEY WORDS: var "
-             if {} else {}
-             while {}
-             continue
-             break 
+<br>  ALSO:  Arrays
+<br>  OPERATIONS: + - * /
+<br>  LOGIC OPERATIONS: == != === !==  
+<br>                     >  <  >=  <= 
+<br>  OPERATIONS WITH STRING: + / * 
+<br>  COMMENTS: // /*...*/
+<br>  KEY WORDS: var "
+<br>             if {} else {}
+<br>             while {}
+<br>             continue
+<br>             break 
 
-  U don't need the ; but program skip it :)
-=================================================
+<br>  U don't need the ; but program skip it :)
+<br>=================================================
 
 Here are all the server files with the javascript interpreter:
 (interpreter capabilities are given by srun.sh during compilation and they are in the js.cpp header and also some lines upper :D)
