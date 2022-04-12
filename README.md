@@ -6,20 +6,20 @@ This is the server that main function is to interpretate & run simple JavaScript
 
 
 <pre>==================================================
-<br>  WHAT's my JavaScript interpretator cans???
-<br>
-<br>  TYPES: Integer, Float, String, Boolean
-<br>  ALSO:  Arrays
-<br>  OPERATIONS: + - * /
-<br>  LOGIC OPERATIONS: == != === !==  
-<br>                     >  <  >=  <= 
-<br>  OPERATIONS WITH STRING: + / * 
-<br>  COMMENTS: // /*...*/
-<br>  KEY WORDS: var "
-<br>             if {} else {}
-<br>             while {}
-<br>             continue
-<br>             break 
+  WHAT's my JavaScript interpretator cans???
+
+  TYPES: Integer, Float, String, Boolean
+  ALSO:  Arrays
+  OPERATIONS: + - * /
+  LOGIC OPERATIONS: == != === !==  
+                     >  <  >=  <= 
+  OPERATIONS WITH STRING: + / * 
+  COMMENTS: // /*...*/
+  KEY WORDS: var "
+             if {} else {}
+             while {}
+             continue
+             break 
 
 <br>  U don't need the ; but program skip it :)
 <br>=================================================</pre>
