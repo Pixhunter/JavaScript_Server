@@ -24,7 +24,7 @@ This is the server that main function is to interpretate & run simple JavaScript
   U don't need the ; but program skip it :)
 =================================================</pre>
 
-Here are all the server files with the javascript interpreter:
+Here are all the server files with the javascript interpreter:<br>
 (interpreter capabilities are given by srun.sh during compilation and they are in the js.cpp header and also some lines upper :D)
 
 - server.cpp - the server itself, opens a file with an interpreter (js.cpp) via fork and waits for its execution, intercepting its std::out messages and outputting them in response to the client (processes many requests as a "live" server) + forwards to the client parameters from the server such as request length, connection type, etc.
@@ -35,5 +35,5 @@ Here are all the server files with the javascript interpreter:
 
 
 
-Fibonacci and factorial are implemented in the script.txt file that shows the correct working, you also can play with it.
+Fibonacci and factorial are implemented in the script.txt file that shows the correct working, you also can play with it.<br>
 Implemented an example of the operation of loops on the output of Fibonacci and factorial numbers through while and if / else loops, and both a single if without {} and with else c / without {} work (using comments, the text in the script is separated, \n is not implemented) .
