@@ -6,9 +6,9 @@ This is the server that main function is to interpretate & run simple JavaScript
 
 
 ==================================================
-  WHAT's my JavaScript interpretator cans???
-
-  TYPES: Integer, Float, String, Boolean
+<br>  WHAT's my JavaScript interpretator cans???
+<br>
+<br>  TYPES: Integer, Float, String, Boolean
   ALSO:  Arrays
   OPERATIONS: + - * /
   LOGIC OPERATIONS: == != === !==  
