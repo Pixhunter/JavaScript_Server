@@ -5,7 +5,7 @@ This is the server that main function is to interpretate & run simple JavaScript
 
 
 
-<br>==================================================
+<pre>==================================================
 <br>  WHAT's my JavaScript interpretator cans???
 <br>
 <br>  TYPES: Integer, Float, String, Boolean
@@ -22,7 +22,7 @@ This is the server that main function is to interpretate & run simple JavaScript
 <br>             break 
 
 <br>  U don't need the ; but program skip it :)
-<br>=================================================
+<br>=================================================</pre>
 
 Here are all the server files with the javascript interpreter:
 (interpreter capabilities are given by srun.sh during compilation and they are in the js.cpp header and also some lines upper :D)
